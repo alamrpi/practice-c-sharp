@@ -1,0 +1,12 @@
+C:\CSharp\FieldsExample\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\CSharp\FieldsExample\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\CSharp\FieldsExample\ClassLibrary1\obj\Debug\ClassLibrary1.csprojAssemblyReference.cache
+C:\CSharp\FieldsExample\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.CoreCompileInputs.cache
+C:\CSharp\FieldsExample\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\CSharp\FieldsExample\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+C:\Users\hp\Downloads\Access+Modifiers+of+Fields\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.AssemblyReference.cache
+C:\Users\hp\Downloads\Access+Modifiers+of+Fields\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.CoreCompileInputs.cache
+C:\Users\hp\Downloads\Access+Modifiers+of+Fields\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\hp\Downloads\Access+Modifiers+of+Fields\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+C:\Users\hp\Downloads\Access+Modifiers+of+Fields\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\hp\Downloads\Access+Modifiers+of+Fields\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
