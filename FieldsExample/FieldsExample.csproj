@@ -43,6 +43,15 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="0813\Out_parameter.cs" />
+    <Compile Include="0813\in_parameter.cs" />
+    <Compile Include="0813\params_modifier.cs" />
+    <Compile Include="0813\name_arguments.cs" />
+    <Compile Include="0813\ref_return.cs" />
+    <Compile Include="0813\Program_Method_Ref_Parameter.cs" />
+    <Compile Include="0813\Program_without_changing_value.cs" />
+    <Compile Include="0813\Program_Value_Type_Parameter.cs" />
+    <Compile Include="0813\Program_Methods.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
