@@ -6,24 +6,32 @@ namespace ValueTypeParameter
     {
         static void Main()
         {
-            var class1 = new Class1();
-            class1.Display("Alam", 20);
-            class1.Display(roll: 21, names: "Test");
+            TestClass class1 = new TestClass();
+            Console.WriteLine(class1.DisplayName(20, "Alam"));
 
             Console.ReadKey();
         }
     }
 
     //Child class at other assembly
-    public class Class1
+    public class TestClass
     {
-        public int testValue = 40;
-     
-
-        public void Display(string names, int roll)
+        public string DisplayName(int roll, string name)
         {
-             Console.WriteLine(names);
+            //Local function 
+            string TestMethod()
+            {
+                return "";
+            }
+
+            TestMethod();
+            return $"{name} {roll}";
         }
+
+        //public string TestLocalMethod()
+        //{
+        //    TestMethod();
+        //}
     }
 }
 
