@@ -54,6 +54,8 @@
     <Compile Include="0813\Program_Methods.cs" />
     <Compile Include="0819\Method_overloading.cs" />
     <Compile Include="0819\Method_overriding.cs" />
+    <Compile Include="0819\Local_function.cs" />
+    <Compile Include="0902\TypeCastingExample.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

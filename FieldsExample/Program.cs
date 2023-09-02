@@ -1,4 +1,5 @@
-﻿using System;
+﻿using FieldsExample._0902;
+using System;
 
 namespace ValueTypeParameter
 {
@@ -6,32 +7,10 @@ namespace ValueTypeParameter
     {
         static void Main()
         {
-            TestClass class1 = new TestClass();
-            Console.WriteLine(class1.DisplayName(20, "Alam"));
-
+            var typeCast = new TypeCastingExample();
+            typeCast.Display();
             Console.ReadKey();
         }
-    }
-
-    //Child class at other assembly
-    public class TestClass
-    {
-        public string DisplayName(int roll, string name)
-        {
-            //Local function 
-            string TestMethod()
-            {
-                return "";
-            }
-
-            TestMethod();
-            return $"{name} {roll}";
-        }
-
-        //public string TestLocalMethod()
-        //{
-        //    TestMethod();
-        //}
     }
 }
 
