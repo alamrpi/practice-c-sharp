@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace FieldsExample._0902
 {
@@ -10,21 +6,9 @@ namespace FieldsExample._0902
     {
         public void Display()
         {
-            ParenClass parent = new ParenClass();
-            parent.Name = "Test";
-            parent.RollNO = 20;
+            bool stringValue = true;
 
-            var result = parent.ToString();
-
-            Console.WriteLine(result);
-
-            ParenClass parent1 = new ParenClass();
-            parent.Name = "Test";
-            parent.RollNO = 20;
-
-            var result1 = parent1.ToString();
-
-            Console.WriteLine(result);
+            //string result = stringValue as string;
         }
 
         public void MethodConversion()
