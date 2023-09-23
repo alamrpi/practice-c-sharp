@@ -57,6 +57,7 @@
     <Compile Include="0819\Local_function.cs" />
     <Compile Include="0902\TypeCastingExample.cs" />
     <Compile Include="0916\ConstructorExample.cs" />
+    <Compile Include="0923\PropertyIndexerExample.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
