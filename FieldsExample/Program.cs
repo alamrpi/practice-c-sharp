@@ -1,6 +1,7 @@
 ﻿using FieldsExample._0902;
 using FieldsExample._0916;
 using FieldsExample._0923;
+using FieldsExample._0924;
 using System;
 
 namespace ValueTypeParameter
@@ -9,8 +10,8 @@ namespace ValueTypeParameter
     {
         static void Main()
         {
-            var propertyIndexer = new PropertyIndexerExample();
-            propertyIndexer.Display();
+            var oop = new OOPBasicConceptExample();
+            oop.Display();
 
             Console.ReadKey();
         }
