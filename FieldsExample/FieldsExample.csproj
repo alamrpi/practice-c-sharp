@@ -59,12 +59,16 @@
     <Compile Include="0916\ConstructorExample.cs" />
     <Compile Include="0923\PropertyIndexerExample.cs" />
     <Compile Include="0924\OOPBasicConceptExample.cs" />
+    <Compile Include="0924\StaticModifierExample.cs" />
     <Compile Include="0924\Student.cs" />
+    <Compile Include="0930\MethodExample.cs" />
+    <Compile Include="0930\Student.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="0923\Property_and_indexer.pdf" />
+    <None Include="0924\Fields.pdf" />
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
