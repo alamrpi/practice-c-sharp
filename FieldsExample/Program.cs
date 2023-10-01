@@ -3,6 +3,7 @@ using FieldsExample._0916;
 using FieldsExample._0923;
 using FieldsExample._0924;
 using FieldsExample._0930;
+using FieldsExample._1001;
 using System;
 
 namespace ValueTypeParameter
@@ -11,7 +12,7 @@ namespace ValueTypeParameter
     {
         static void Main()
         {
-            var oop = new MethodExample();
+            var oop = new TypeConversionExample();
             oop.Display();
 
             Console.ReadKey();

@@ -63,12 +63,18 @@
     <Compile Include="0924\Student.cs" />
     <Compile Include="0930\MethodExample.cs" />
     <Compile Include="0930\Student.cs" />
+    <Compile Include="1001\ConversionMethod.cs" />
+    <Compile Include="1001\ParseAndTryParse.cs" />
+    <Compile Include="1001\ExplicityCast.cs" />
+    <Compile Include="1001\ImplicityCast.cs" />
+    <Compile Include="1001\TypeConversionExample.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="0923\Property_and_indexer.pdf" />
     <None Include="0924\Fields.pdf" />
+    <None Include="0930\Learn C#.pdf" />
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
