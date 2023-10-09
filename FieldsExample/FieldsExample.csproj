@@ -68,6 +68,10 @@
     <Compile Include="1001\ExplicityCast.cs" />
     <Compile Include="1001\ImplicityCast.cs" />
     <Compile Include="1001\TypeConversionExample.cs" />
+    <Compile Include="1008\Car.cs" />
+    <Compile Include="1008\ConstructorExample.cs" />
+    <Compile Include="1008\PropertiesExample.cs" />
+    <Compile Include="1008\Student.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

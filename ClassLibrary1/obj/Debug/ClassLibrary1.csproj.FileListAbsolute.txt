@@ -10,3 +10,9 @@ C:\Users\hp\Downloads\Access+Modifiers+of+Fields\ClassLibrary1\obj\Debug\ClassLi
 C:\Users\hp\Downloads\Access+Modifiers+of+Fields\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
 C:\Users\hp\Downloads\Access+Modifiers+of+Fields\ClassLibrary1\bin\Debug\ClassLibrary1.dll
 C:\Users\hp\Downloads\Access+Modifiers+of+Fields\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+D:\projects\learn\practice-c-sharp\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+D:\projects\learn\practice-c-sharp\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+D:\projects\learn\practice-c-sharp\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.AssemblyReference.cache
+D:\projects\learn\practice-c-sharp\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.CoreCompileInputs.cache
+D:\projects\learn\practice-c-sharp\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+D:\projects\learn\practice-c-sharp\ClassLibrary1\obj\Debug\ClassLibrary1.pdb

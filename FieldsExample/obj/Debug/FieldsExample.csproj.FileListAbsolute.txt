@@ -19,3 +19,14 @@ C:\Users\hp\Downloads\Access+Modifiers+of+Fields\FieldsExample\bin\Debug\FieldsE
 C:\Users\hp\Downloads\Access+Modifiers+of+Fields\FieldsExample\bin\Debug\ClassLibrary1.dll
 C:\Users\hp\Downloads\Access+Modifiers+of+Fields\FieldsExample\bin\Debug\ClassLibrary1.pdb
 C:\Users\hp\Downloads\Access+Modifiers+of+Fields\FieldsExample\obj\Debug\FieldsExample.csproj.CopyComplete
+D:\projects\learn\practice-c-sharp\FieldsExample\bin\Debug\FieldsExample.exe.config
+D:\projects\learn\practice-c-sharp\FieldsExample\bin\Debug\FieldsExample.exe
+D:\projects\learn\practice-c-sharp\FieldsExample\bin\Debug\FieldsExample.pdb
+D:\projects\learn\practice-c-sharp\FieldsExample\bin\Debug\ClassLibrary1.dll
+D:\projects\learn\practice-c-sharp\FieldsExample\bin\Debug\ClassLibrary1.pdb
+D:\projects\learn\practice-c-sharp\FieldsExample\obj\Debug\FieldsExample.csproj.AssemblyReference.cache
+D:\projects\learn\practice-c-sharp\FieldsExample\obj\Debug\FieldsExample.csproj.SuggestedBindingRedirects.cache
+D:\projects\learn\practice-c-sharp\FieldsExample\obj\Debug\FieldsExample.csproj.CoreCompileInputs.cache
+D:\projects\learn\practice-c-sharp\FieldsExample\obj\Debug\FieldsExample.csproj.CopyComplete
+D:\projects\learn\practice-c-sharp\FieldsExample\obj\Debug\FieldsExample.exe
+D:\projects\learn\practice-c-sharp\FieldsExample\obj\Debug\FieldsExample.pdb

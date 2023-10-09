@@ -4,6 +4,7 @@ using FieldsExample._0923;
 using FieldsExample._0924;
 using FieldsExample._0930;
 using FieldsExample._1001;
+using FieldsExample._1008;
 using System;
 
 namespace ValueTypeParameter
@@ -12,7 +13,7 @@ namespace ValueTypeParameter
     {
         static void Main()
         {
-            var oop = new TypeConversionExample();
+            var oop = new PropertiesExample();
             oop.Display();
 
             Console.ReadKey();
