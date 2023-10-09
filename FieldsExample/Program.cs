@@ -5,6 +5,7 @@ using FieldsExample._0924;
 using FieldsExample._0930;
 using FieldsExample._1001;
 using FieldsExample._1008;
+using FieldsExample._1009;
 using System;
 
 namespace ValueTypeParameter
@@ -13,7 +14,7 @@ namespace ValueTypeParameter
     {
         static void Main()
         {
-            var oop = new PropertiesExample();
+            var oop = new InheritanceExample();
             oop.Display();
 
             Console.ReadKey();

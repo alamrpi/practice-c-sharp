@@ -72,6 +72,13 @@
     <Compile Include="1008\ConstructorExample.cs" />
     <Compile Include="1008\PropertiesExample.cs" />
     <Compile Include="1008\Student.cs" />
+    <Compile Include="1009\ChildClass.cs" />
+    <Compile Include="1009\ChildClass2.cs" />
+    <Compile Include="1009\InheritanceExample.cs" />
+    <Compile Include="1009\ParentClass.cs" />
+    <Compile Include="1009\Person.cs" />
+    <Compile Include="1009\Student.cs" />
+    <Compile Include="1009\Teacher.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
