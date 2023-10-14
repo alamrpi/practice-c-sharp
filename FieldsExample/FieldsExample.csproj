@@ -79,6 +79,16 @@
     <Compile Include="1009\Person.cs" />
     <Compile Include="1009\Student.cs" />
     <Compile Include="1009\Teacher.cs" />
+    <Compile Include="1014\AbstractExample.cs" />
+    <Compile Include="1014\Car.cs" />
+    <Compile Include="1014\Helicopter.cs" />
+    <Compile Include="1014\IFlyingVehicle.cs" />
+    <Compile Include="1014\ITest1.cs" />
+    <Compile Include="1014\ITest2.cs" />
+    <Compile Include="1014\Person.cs" />
+    <Compile Include="1014\Student.cs" />
+    <Compile Include="1014\IVehicle.cs" />
+    <Compile Include="1014\Test.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
@@ -86,6 +96,7 @@
     <None Include="0923\Property_and_indexer.pdf" />
     <None Include="0924\Fields.pdf" />
     <None Include="0930\Learn C#.pdf" />
+    <None Include="1014\abstraction.pdf" />
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
