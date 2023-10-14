@@ -8,5 +8,6 @@ namespace FieldsExample._1014
 {
     public interface ITest2
     {
+        void Display();
     }
 }

@@ -6,7 +6,15 @@ using System.Threading.Tasks;
 
 namespace FieldsExample._1014
 {
-    internal class Test
+    public class Test : ITest1, ITest2
     {
+        void ITest1.Display()
+        {
+            throw new NotImplementedException();
+        }
+        void ITest2.Display()
+        {
+            throw new NotImplementedException();
+        }
     }
 }
