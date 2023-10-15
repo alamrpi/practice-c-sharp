@@ -89,6 +89,11 @@
     <Compile Include="1014\Student.cs" />
     <Compile Include="1014\IVehicle.cs" />
     <Compile Include="1014\Test.cs" />
+    <Compile Include="1015\Car.cs" />
+    <Compile Include="1015\EmployeeService.cs" />
+    <Compile Include="1015\IEmployeeService.cs" />
+    <Compile Include="1015\NameSpaceExample.cs" />
+    <Compile Include="1015\PartialCar.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

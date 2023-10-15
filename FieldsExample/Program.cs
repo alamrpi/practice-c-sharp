@@ -14,8 +14,7 @@ namespace ValueTypeParameter
     {
         static void Main()
         {
-            var oop = new InheritanceExample();
-            oop.Display();
+            var test = new Test.Test1();
 
             Console.ReadKey();
         }
