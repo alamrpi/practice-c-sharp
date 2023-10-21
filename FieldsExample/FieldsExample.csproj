@@ -94,6 +94,9 @@
     <Compile Include="1015\IEmployeeService.cs" />
     <Compile Include="1015\NameSpaceExample.cs" />
     <Compile Include="1015\PartialCar.cs" />
+    <Compile Include="1021\Car.cs" />
+    <Compile Include="1021\StructureExample.cs" />
+    <Compile Include="1021\Student.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
@@ -102,6 +105,7 @@
     <None Include="0924\Fields.pdf" />
     <None Include="0930\Learn C#.pdf" />
     <None Include="1014\abstraction.pdf" />
+    <None Include="1015\Namespace, partial, enumeration.pdf" />
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>

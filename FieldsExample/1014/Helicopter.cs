@@ -9,6 +9,11 @@ namespace FieldsExample._1014
             throw new NotImplementedException();
         }
 
+        public int CountFan()
+        {
+            throw new NotImplementedException();
+        }
+
         public string GetBrandName()
         {
             throw new NotImplementedException();
