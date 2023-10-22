@@ -7,6 +7,7 @@ using FieldsExample._1001;
 using FieldsExample._1008;
 using FieldsExample._1009;
 using FieldsExample._1021;
+using FieldsExample._1022;
 using System;
 
 namespace ValueTypeParameter
@@ -15,7 +16,7 @@ namespace ValueTypeParameter
     {
         static void Main()
         {
-            var struc = new StructureExample();
+            var struc = new GenericExample();
             struc.Display();
 
             Console.ReadKey();

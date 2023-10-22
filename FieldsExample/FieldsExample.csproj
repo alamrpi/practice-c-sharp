@@ -97,6 +97,8 @@
     <Compile Include="1021\Car.cs" />
     <Compile Include="1021\StructureExample.cs" />
     <Compile Include="1021\Student.cs" />
+    <Compile Include="1022\GenericExample.cs" />
+    <Compile Include="1022\Student.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
@@ -106,6 +108,7 @@
     <None Include="0930\Learn C#.pdf" />
     <None Include="1014\abstraction.pdf" />
     <None Include="1015\Namespace, partial, enumeration.pdf" />
+    <None Include="1021\structure.pdf" />
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
